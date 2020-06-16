@@ -1,4 +1,4 @@
-# My Iterm2 Terminal Config
+# My iTerm2 Terminal Config
 
 ## Install iTerm2
 
