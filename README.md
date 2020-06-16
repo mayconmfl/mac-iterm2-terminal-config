@@ -10,7 +10,7 @@
 #### Add Color Schemes
 
 - Choose the zip file... [Download](https://iterm2colorschemes.com/)
-- iTerm 2 > CMD+i > Colors tab > Click on Load Presets > Click on Import
+- iTerm 2 > CMD+i > Colors tab > Click on Load Presets > Click on Import [Here](https://github.com/mayconmfl/mac-iterm2-terminal-config/tree/master/schemas)
 - Select the .itermcolors file(s) from scheme folder
 - Click on Load Presets and choose a color scheme
 
@@ -25,7 +25,7 @@
 
 # My Custom Profile
 
-  - iTerm 2 > CMD+, > Profile Tab > Click on Other Actions > Import JSON Profiles... > Select Default
+  - iTerm 2 > CMD+, > Profile Tab > Click on Other Actions > Import JSON Profiles [Here](https://github.com/mayconmfl/mac-iterm2-terminal-config/blob/master/profile/mayconmfl-mbp.json)... > Select Default
   - iTerm 2 > CMD+, > Appearence Tab > Check the images and reproduce
 
 ![Default](img/appearance-general-panes.png)
